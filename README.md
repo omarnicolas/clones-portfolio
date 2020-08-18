@@ -6,3 +6,5 @@
   📡 `zoom-clone/`
 - [Tinder](https://tinder.com/) <br />
   🔥 `tinder-clone/`
+- [Amazon](https://amazon.com/) <br />
+  🛒 `amazon-clone/`
