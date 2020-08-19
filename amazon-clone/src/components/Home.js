@@ -1,26 +1,26 @@
 import React from "react";
 import "./Home.css";
-import Product from "./Product";
+import Product from "./Product.js";
 
 function Home() {
   return (
     <div className="home">
       <img
-        className="home__image"
         src="https://images-eu.ssl-images-amazon.com/images/G/30/digital/video/magellan/country/spain/EvergreenRefresh/fromDec19/ES_Evergreen_Refresh_FT_XSite_HeroTALL_1500x600._CB406900867_.jpg"
-        alt=""
+        className="home__image"
+        alt="banner"
       />
       <div className="home__row">
         <Product
           id="12321341"
-          title="AmazonBasics Reusable, Silicone, Non-Stick Baking Cups Liners - Pack of 12"
+          title="Reusable, Silicone, Non-Stick Baking Cups Liners - Pack of 12"
           price={7.99}
           rating={4}
           image="https://m.media-amazon.com/images/I/71kRlcrwKDL._AC_UL320_.jpg"
         />
         <Product
           id="12321347"
-          title="AmazonBasics Grip Kit for Nintendo Switch Joy-Con Controllers - Red"
+          title="Grip Kit for Nintendo Switch Joy-Con Controllers - Red"
           price={11.25}
           rating={5}
           image="https://m.media-amazon.com/images/I/61l1BXNnl+L._AC_UL320_.jpg"
