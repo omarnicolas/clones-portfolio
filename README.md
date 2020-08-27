@@ -8,3 +8,5 @@
   🔥 `tinder-clone/`
 - [Amazon](https://amazon.com/) <br />
   🛒 `amazon-clone/`
+- [Netflix](https://www.netflix.com/) <br />
+  🎬 `netflix-clone/`
